@@ -3,11 +3,11 @@ layout: about
 title: about
 permalink: /
 subtitle: Research Scholar
-    <a href='https://www.imsc.res.in'>The Institute of Mathematical Sciences</a>
-    NL-01
-    IV Cross Road, CIT Campus, Taramani
-    Chennai 600 113
-    Tamil Nadu, India
+    <br><a href='https://www.imsc.res.in'>The Institute of Mathematical Sciences</a>
+    <br>NL-01
+    <br>IV Cross Road, CIT Campus, Taramani
+    <br>Chennai 600 113
+    <br>Tamil Nadu, India
 
 profile:
   align: right
