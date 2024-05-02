@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Sarbartha2000.github.io/sitemap.xml
+Sitemap: https://sarbartha2000.github.io/sitemap.xml
