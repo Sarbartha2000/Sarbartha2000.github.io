@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: Research Scholar, Theoretical Physics
     <br><a href='https://www.imsc.res.in'>The Institute of Mathematical Sciences</a>
-    <br>NL-01
     <br>IV Cross Road, CIT Campus, Taramani
     <br>Chennai 600 113
     <br>Tamil Nadu, India
