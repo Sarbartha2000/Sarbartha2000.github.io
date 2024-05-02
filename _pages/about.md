@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scholar
+subtitle: Research Scholar, Theoretical Physics
     <br><a href='https://www.imsc.res.in'>The Institute of Mathematical Sciences</a>
     <br>NL-01
     <br>IV Cross Road, CIT Campus, Taramani
@@ -24,4 +24,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+
+<br>Office: NL-01
+<br>Office Landline:
+<br>Official Email: <a href='mailto:sarbartha@imsc.res.in'>sarbartha@imsc.res.in</a>
 
