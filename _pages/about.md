@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-<br>Office: NL-01
-<br>Office Landline: 2254 3371
-<br>Official Email: <a href='mailto:sarbartha@imsc.res.in'>sarbartha@imsc.res.in</a>
+<br>   :office: : NL-01
+<br>   :telephone: : 2254 3371
+<br>   :email: : <a href='mailto:sarbartha@imsc.res.in'>sarbartha@imsc.res.in</a>
 
