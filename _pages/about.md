@@ -24,7 +24,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
+<br>
+I am an Integrated PhD student at IMSc, Chennai, currently working under the supervision of <a href='https://www.imsc.res.in/~manjari/'>Prof. Manjari Bagchi</a>. My research interests include pulsar magnetosphere, pulsar emission mechanisms, pulsar astronomy, pulsar-black hole binaries. I am currently a member of <a href='https://inpta.iitr.ac.in/'>Indian Pulsar Timing Array</a>.
+<br>
 <br>   :office: : NL-01
 <br>   :telephone: : 2254 3371
 <br>   :email: : <a href='mailto:sarbartha@imsc.res.in'>sarbartha@imsc.res.in</a>
